@@ -32,7 +32,7 @@
   /* === HEADING AREA === */
 
   .heading-area {
-    padding: 20px 0px;
+    padding: 1.25rem 0rem;
     display: flex;
     justify-content: center;
     flex-flow: row wrap;
@@ -49,21 +49,21 @@
   .heading-area nav ul li {
     display: inline-block;
     align-items: center;
-    padding: 10px 28px;
+    padding: 0.625rem 1.75rem;
   }
   .heading-area nav ul li a {
     font-family: "Poppins";
     font-style: normal;
     font-weight: 400;
-    font-size: 12px;
-    line-height: 23px;
-    letter-spacing: 1.5px;
+    font-size: 0.75rem;
+    line-height: 1.4375rem;
+    letter-spacing: 0.09375rem;
     color: #2d2f30;
   }
   .heading-area .search-area {
     flex: 1 0;
-    padding-right: 15px;
-    line-height: 3.5;
+    padding-right: 0.9375rem;
+    line-height: 3.5rem;
     text-align: center;
   }
   .heading-area .search-area .img {
@@ -80,11 +80,11 @@
     background-image: url(./img/lawliet-woman.png);
     background-repeat: no-repeat;
     background-position: right bottom;
-    padding: 100px 0px 0px 70px;
+    padding: 6.25rem 0 0 4.375rem;
   }
   .hero-left {
     flex: 1 0;
-    padding-bottom: 35px;
+    padding-bottom: 2.1875rem;
     width: 50vw;
     display: flex;
     flex-flow: column wrap;
@@ -93,8 +93,8 @@
     font-family: "Playfair Display";
     font-style: normal;
     font-weight: 700;
-    font-size: 90px;
-    line-height: 120%;
+    font-size: 5.625rem;
+    line-height: 6.75rem;
     letter-spacing: 0.02em;
     color: #094b72;
     flex: 1 0;
@@ -104,18 +104,18 @@
     font-family: Plus Jakarta Sans;
     font-style: normal;
     font-weight: 500;
-    font-size: 24px;
-    line-height: 158%;
-    letter-spacing: 0.5px;
+    font-size: 1.5rem;
+    line-height: 2.375rem;
+    letter-spacing: 0.03125rem;
     color: #4f4f4f;
-    margin: 46px 0px 42px 0px;
+    margin: 2.875rem 0rem 2.625rem 0rem;
     flex: 1 0;
   }
   .hero-area .hero-left .hero-description .start-btn {
-    width: 190px;
-    height: 80px;
+    width: 11.875rem;
+    height: 5rem;
     background-color: #094b72;
-    border-radius: 8px;
+    border-radius: 0.5rem;
     transition: all 0.5s;
     flex: 1 0;
   }
@@ -126,33 +126,33 @@
     font-family: "Plus Jakarta Sans";
     font-style: normal;
     font-weight: 700;
-    font-size: 16px;
-    line-height: 140.5%;
+    font-size: 1rem;
+    line-height: 1.375rem;
     letter-spacing: 0.08em;
     color: #f9f8f9;
   }
   .hero-area .hero-left .hero-description .trust-line {
-    width: 540px;
-    height: 31px;
+    width: 33.75rem;
+    height: 1.9375rem;
     font-family: "Plus Jakarta Sans";
     font-style: normal;
     font-weight: 400;
-    font-size: 22px;
-    line-height: 140.5%;
+    font-size: 1.375rem;
+    line-height: 1.9375rem;
     letter-spacing: 0.04em;
     color: #8b8c8c;
-    margin: 115px 0px 35px 0px;
+    margin: 7.1875rem 0rem 2.1875rem 0rem;
     flex: 1 0;
   }
   .hero-area .hero-left .partners-logo {
-    width: 238px;
-    height: 88px;
+    width: 14.875rem;
+    height: 5.5rem;
     flex: 1 0;
   }
   .hero-area .hero-left .partners-logo tr td {
-    width: 90px;
-    height: 28px;
-    padding: 16px;
+    width: 5.625rem;
+    height: 1.75rem;
+    padding: 1rem;
   }
   .hero-area .hero-photo {
     flex: 1 0;
@@ -163,26 +163,26 @@
   /* === SUMMARY AREA === */
 
   #summary {
-    width: 419.31px;
-    height: 302px;
-    margin: 160px 0px 0px 250px;
+    width: 26.21rem;
+    height: 18.875rem;
+    margin: 10rem 0rem 0rem 15.625rem;
   }
   #summary h2 {
     font-family: "Playfair Display";
     font-style: normal;
     font-weight: 700;
-    font-size: 48px;
-    line-height: 64px;
-    letter-spacing: 0.323077px;
+    font-size: 3rem;
+    line-height: 4rem;
+    letter-spacing: 0.0202rem;
     color: #2d2f30;
   }
   #summary p {
     font-family: "Poppins";
     font-style: normal;
     font-weight: 400;
-    font-size: 20px;
-    line-height: 36px;
-    letter-spacing: 0.5px;
+    font-size: 1.25rem;
+    line-height: 2.25rem;
+    letter-spacing: 0.03125rem;
     color: #8b8c8c;
   }
 
@@ -204,41 +204,41 @@
   }
   .services-area .service-items .cards {
     background: #fcfcfc;
-    box-shadow: 0px 18px 58px 16px rgba(0, 0, 0, 0.06);
-    border-radius: 8px;
-    padding: 24px;
-    width: 256px;
-    height: 260px;
-    margin: 70px 0px;
+    box-shadow: 0rem 1.125rem 3.625rem 1rem rgba(0, 0, 0, 0.06);
+    border-radius: 0.5rem;
+    padding: 1.5rem;
+    width: 16rem;
+    height: 16.25rem;
+    margin: 4.375rem 0rem;
   }
   #service1,
   #service2 {
     flex: 1 0;
   }
   .services-area .service-items .cards img {
-    width: 37px;
-    height: 37px;
-    margin: 10px 10px;
+    width: 2.3125rem;
+    height: 2.3125rem;
+    margin: 0.625rem 0.625rem;
   }
   .services-area .service-items .cards h3 {
     font-family: "Playfair Display";
     font-style: normal;
     font-weight: 700;
-    font-size: 22px;
-    line-height: 22px;
-    letter-spacing: 0.5px;
+    font-size: 1.375rem;
+    line-height: 1.375rem;
+    letter-spacing: 0.03125rem;
     color: #363940;
-    margin: 10px 0px;
+    margin: 0.625rem 0rem;
   }
   .services-area .service-items .cards p {
     font-family: "Plus Jakarta Sans";
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
-    line-height: 24px;
-    letter-spacing: 0.3px;
+    font-size: 0.875rem;
+    line-height: 1.5rem;
+    letter-spacing: 0.01875rem;
     color: #8b8c8c;
-    margin: 10px 0px;
+    margin: 0.625rem 0rem;
   }
 
   /* === STATUS AREA === */
@@ -252,9 +252,9 @@
     font-family: "Playfair Display";
     font-style: normal;
     font-weight: 900;
-    font-size: 50px;
-    height: 64px;
-    line-height: 130px;
+    font-size: 3.125rem;
+    height: 4rem;
+    line-height: 8.125rem;
     text-align: center;
     letter-spacing: 0.05em;
     font-feature-settings: "salt" on, "liga" off;
@@ -264,10 +264,10 @@
     font-family: "Poppins";
     font-style: normal;
     font-weight: 300;
-    font-size: 18px;
-    line-height: 100px;
+    font-size: 1.125rem;
+    line-height: 6.25rem;
     text-align: center;
-    letter-spacing: 0.5px;
+    letter-spacing: 0.03125rem;
     font-feature-settings: "salt" on, "liga" off;
     color: #ffffff;
   }
@@ -283,21 +283,21 @@
   .status1,
   .status2 {
     text-align: center;
-    border-right: 1px solid rgb(255, 255, 255, 0.4);
+    border-right: 0.0625rem solid rgb(255, 255, 255, 0.4);
   }
   .status3 {
     text-align: center;
   }
   .status-area .status-body .status {
     flex: 1 0;
-    height: 96px;
+    height: 6rem;
   }
   .status-area .status-body .status .numeric-status {
     font-family: "Poppins";
     font-style: normal;
     font-weight: 800;
-    font-size: 48px;
-    line-height: 64px;
+    font-size: 3rem;
+    line-height: 4rem;
     text-align: center;
     font-feature-settings: "salt" on, "liga" off;
     color: #ffffff;
@@ -306,8 +306,8 @@
     font-family: "Poppins";
     font-style: normal;
     font-weight: 400;
-    font-size: 18px;
-    line-height: 32px;
+    font-size: 1.125rem;
+    line-height: 2rem;
     text-align: center;
     letter-spacing: 0.003em;
     font-feature-settings: "salt" on, "liga" off;
@@ -317,7 +317,7 @@
   /* === TESTIMONIAL AREA === */
 
   .testimonial-area {
-    height: 70vh;
+    height: 85vh;
     background-color: #f4fbff;
   }
   .testimonial-area .testimonials {
@@ -329,12 +329,12 @@
     font-family: "Playfair Display";
     font-style: normal;
     font-weight: 700;
-    font-size: 48px;
-    line-height: 64px;
-    padding: 30px 0px;
-    margin-bottom: 20px;
+    font-size: 3rem;
+    line-height: 4rem;
+    padding: 1.875rem 0rem;
+    margin-bottom: 1.25rem;
     text-align: center;
-    letter-spacing: 0.5px;
+    letter-spacing: 0.03125rem;
     font-feature-settings: "salt" on, "liga" off;
     color: #2d2f30;
   }
@@ -350,37 +350,37 @@
     text-align: center;
   }
   .testimonial-card {
-    width: 540px;
-    height: 220px;
+    width: 33.75rem;
+    height: 21.25rem;
     text-align: center;
-    padding: 20px;
+    padding: 1.25rem;
     margin: auto;
     background-color: #ffffff;
-    border-radius: 10px;
-    box-shadow: 0px 10px 20px rgba(41, 41, 42, 0.07);
+    border-radius: 0.625rem;
+    box-shadow: 0rem 0.625rem 1.25rem rgba(41, 41, 42, 0.07);
   }
   .testimonial-head {
     font-family: "Poppins";
     font-style: normal;
     font-weight: 500;
-    font-size: 18px;
-    line-height: 28px;
+    font-size: 1.125rem;
+    line-height: 1rem;
     text-align: center;
     font-feature-settings: "salt" on, "liga" off;
     color: #151617;
-    padding: 10px 0 5px 0;
+    padding: 0.625rem 0 0.3125rem 0;
   }
   .testimonial-body {
     font-family: "Poppins";
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
-    line-height: 24px;
+    font-size: 0.875rem;
+    line-height: 1.5rem;
     text-align: center;
-    letter-spacing: 0.5px;
+    letter-spacing: 0.03125rem;
     font-feature-settings: "salt" on, "liga" off;
     color: #4f4f4f;
-    padding: 10px;
+    padding: 0.625rem;
   }
 
   /* === CLIENTS AREA === */
@@ -389,8 +389,8 @@
     display: flex;
     flex-flow: row wrap;
     justify-content: space-around;
-    column-gap: 20px;
-    margin: 50px 60px 0 0;
+    column-gap: 1.25rem;
+    margin: 3.125rem 1.875rem 0 0;
   }
   .client .client-pic {
     flex: 1 0;
@@ -404,8 +404,8 @@
     font-family: "Inter";
     font-style: normal;
     font-weight: 700;
-    font-size: 18px;
-    line-height: 28px;
+    font-size: 1.125rem;
+    line-height: 1.75rem;
     font-feature-settings: "salt" on, "liga" off;
     color: #151617;
   }
@@ -413,8 +413,8 @@
     font-family: "Inter";
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
-    line-height: 24px;
+    font-size: 0.875rem;
+    line-height: 1.5rem;
     font-feature-settings: "salt" on, "liga" off;
     color: #4f4f4f;
   }
@@ -433,34 +433,34 @@
     font-family: "Playfair Display";
     font-style: normal;
     font-weight: 700;
-    font-size: 48px;
-    line-height: 64px;
-    letter-spacing: 0.5px;
+    font-size: 3rem;
+    line-height: 4rem;
+    letter-spacing: 0.03125rem;
     font-feature-settings: "salt" on, "liga" off;
     color: #2d2f30;
-    margin-left: 280px;
-    padding: 20px 0;
+    margin-left: 17.5rem;
+    padding: 1.25rem 0;
   }
   .contact-details-area .contact-body {
     font-family: "Poppins";
     font-style: normal;
     font-weight: 400;
-    font-size: 24px;
-    line-height: 36px;
-    letter-spacing: 0.5px;
+    font-size: 1.5rem;
+    line-height: 2.25rem;
+    letter-spacing: 0.03125rem;
     color: #4f4f4f;
-    margin-left: 280px;
-    padding: 15px 0;
+    margin-left: 17.5rem;
+    padding: 0rem 0;
   }
   #callNow {
     background: #0f6e8c;
-    border-radius: 8px;
+    border-radius: 0.5rem;
     color: #ffffff;
-    padding: 22px 40px 12px 40px;
-    margin-left: 280px;
+    padding: 1.375rem 2.5rem 0.75rem 2.5rem;
+    margin-left: 17.5rem;
     display: inline-block;
-    margin-top: 50px;
-    margin-bottom: 15px;
+    margin-top: 3.125rem;
+    margin-bottom: 0.9375rem;
     transition: all 0.5s;
   }
   #callNow:hover {
@@ -468,25 +468,25 @@
   }
   .fa-phone {
     display: inline-block;
-    margin-right: 15px;
-    padding-bottom: 10px;
-    font-size: 20px;
+    margin-right: 0.9375rem;
+    padding-bottom: 0.625rem;
+    font-size: 1.25rem;
   }
   #callNow .call-now {
     font-family: "Poppins";
     font-style: normal;
     font-weight: 600;
-    font-size: 22px;
-    line-height: 20px;
-    width: 219px;
-    letter-spacing: 0.5px;
+    font-size: 1.375rem;
+    line-height: 1.25rem;
+    width: 13.6875rem;
+    letter-spacing: 0.03125rem;
     color: #f9f8f9;
   }
   .contact-area .contact-img-area {
     flex: 1 0;
   }
   .contact-area .contact-img-area img {
-    border-radius: 0 0 0 40px;
+    border-radius: 0 0 0 2.5rem;
     height: 50vh;
   }
   /* === ABOUT AREA START === */
@@ -502,8 +502,8 @@
   }
   .about-area .logo .secondary-logo {
     position: absolute;
-    left: 200px;
-    top: 100px;
+    left: 12.5rem;
+    top: 6.25rem;
   }
   .about-area .about-details {
     flex: 1 0;
@@ -514,17 +514,17 @@
   }
   .about-area .about-details table {
     flex: 1 0;
-    width: 540px;
-    height: 231.25px;
+    width: 33.75rem;
+    height: 14.453125rem;
   }
   table thead th {
     text-align: left;
-    padding-bottom: 20px;
+    padding-bottom: 1.25rem;
     font-family: "Inter";
     font-style: normal;
     font-weight: 500;
-    font-size: 20px;
-    line-height: 30px;
+    font-size: 1.25rem;
+    line-height: 1.875rem;
     font-feature-settings: "salt" on, "liga" off;
     color: #f4f5f7;
   }
@@ -532,8 +532,8 @@
     font-family: "Inter";
     font-style: normal;
     font-weight: 400;
-    font-size: 16px;
-    line-height: 26px;
+    font-size: 1rem;
+    line-height: 1.625rem;
     font-feature-settings: "salt" on, "liga" off;
     color: #eeeff4;
   }
@@ -557,11 +557,11 @@
   }
   footer .copyright p {
     flex: 1 0;
-    margin-left: 200px;
+    margin-left: 12.5rem;
     font-family: "Inter";
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 0.875rem;
     color: #d9dbe1;
   }
   footer .social-icons {
@@ -569,21 +569,21 @@
     justify-content: flex-end;
   }
   footer .social-icons img {
-    margin-right: 200px;
+    margin-right: 12.5rem;
   }
-}
-
-/* LARGE PHONE SCREEN */
-
-@media all and (max-width: 62em) {
 }
 
 /* TABLET SCREEN */
 
+@media all and (max-width: 62em) {
+}
+
+/* LARGE PHONE SCREEN */
+
 @media all and (max-width: 48em) {
 }
 
-/* DESKTOP SCREEN */
+/* X-SMALL SCREEN */
 
 @media all and (max-width: 36em) {
 }
